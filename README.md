@@ -3,6 +3,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=sobaaaan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-https://timely-jalebi-68956c.netlify.app/works.html
+https://timely-jalebi-68956c.netlify.app/index.html
 https://phenomenal-semolina-1ef79e.netlify.app/index.html
 https://helpful-paletas-7b1309.netlify.app/
