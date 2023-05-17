@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 🔭 I’m currently working on: Expanding my knowledge in web development and building my portfolio projects.<br>👯 I’m looking to collaborate on: Exciting open-source projects where I can contribute my skills and learn from experienced developers.<br>🤝 Looking for guidance in optimizing performance and improving app responsiveness in Flutter or React.js.<br>🌱 Currently diving into TypeScript to enhance my JavaScript development.<br>💬 Ask me anything about mobile app design principles and best practices.<br>⚡ Fun fact: I'm an avid FIFA player, scoring goals on and off the screen! ⚽️
 
 
@@ -13,11 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sobaaaan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sobaaaan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sobaaaan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sobaaaan&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/sobaaaan/sobaaaan)
