@@ -1,9 +1,5 @@
 ## 💫 About Me:
 🔭 I’m currently working on: Expanding my knowledge in web development and building my portfolio projects.<br>👯 I’m looking to collaborate on: Exciting open-source projects where I can contribute my skills and learn from experienced developers.<br>🤝 Looking for guidance in optimizing performance and improving app responsiveness in Flutter or React.js.<br>🌱 Currently diving into TypeScript to enhance my JavaScript development.<br>💬 Ask me anything about mobile app design principles and best practices.<br>⚡ Fun fact: I'm an avid FIFA player, scoring goals on and off the screen! ⚽️
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br><br>
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sobaaan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sobaaaan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20892164) 
