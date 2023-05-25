@@ -12,5 +12,5 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sobaaaan&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/sobaaaan/sobaaaan)
+[![Github  graph](https://github-readme-activity-graph.cyclic.app/graph?username=sobaaaan&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/sobaaaan/sobaaaan)
 
